@@ -23,6 +23,7 @@
     background-color: blue;
   }
 }
+/*
 @media screen and (orientation:portrait){
   body:after{
     font-family: 'Oswald', sans-serif;
@@ -35,7 +36,7 @@
     content: "横長";
   }
 }
-/*
+*/
 body{
   background-color: gray;
 }
@@ -91,7 +92,6 @@ footer{
   }
 }
 
-*/
 
 
 
