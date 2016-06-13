@@ -26,7 +26,7 @@
 
 @media screen and (orientation:portrait){
   body:after{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Noto Sans Japanese', sans-serif;
     content: "縦長";
   }
 }
