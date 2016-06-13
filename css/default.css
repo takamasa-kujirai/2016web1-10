@@ -68,6 +68,8 @@ footer{
     clear:both;
   }
 }
+*/
+
 @media screen and (min-width:1025px){
   #main{
     max-width: 1024px;
@@ -84,8 +86,6 @@ footer{
   aside{
     width: calc(100% - 20px);
   }
-
-*/
   #main:after{
     content:"";
     display:block;
