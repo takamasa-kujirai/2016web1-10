@@ -26,13 +26,15 @@
 
 @media screen and (orientation:portrait){
   body:after{
-    font-family: 'Noto Sans Japanese', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    /*font-family: 'Noto Sans Japanese', sans-serif;*/
     content: "縦長";
   }
 }
 @media screen and (orientation:landscape){
   body:after{
-    font-family: 'Noto Sans Japanese', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    /*font-family: 'Noto Sans Japanese', sans-serif;*/
     content: "横長";
   }
 }
