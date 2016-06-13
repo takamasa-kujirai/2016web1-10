@@ -33,8 +33,7 @@
 }
 @media screen and (orientation:landscape){
   body:after{
-    font-family: 'Oswald', sans-serif;
-    /*font-family: 'Noto Sans Japanese', sans-serif;*/
+    font-family: 'Noto Sans Japanese', sans-serif;
     content: "横長";
   }
 }
